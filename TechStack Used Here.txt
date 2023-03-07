@@ -1,0 +1,1 @@
+react, react-reveal, material icons, styled-components, redux
